@@ -42,6 +42,12 @@
 
 ###
 
+<br clear="both">
+
+
+
+###
+
 <h2 align="left">Connect</h2>
 
 ###
