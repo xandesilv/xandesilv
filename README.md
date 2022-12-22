@@ -42,10 +42,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/xandesilv/xandesilv/blob/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h2 align="left">Connect</h2>
 
 ###
